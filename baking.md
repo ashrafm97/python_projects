@@ -3,7 +3,7 @@
 This small project looks at using fucntions and TDD.
 We are also implementing Agile and Scrum principles.
 
-Topics covered include 
+Topics covered include: 
 - Functions 
 - TDD
 - Documentation
@@ -22,6 +22,9 @@ This makes it easier to test.
 
 Other functionality: 
 They can take in arguments to be dynamic of morph the output
+
+
+
 
 If a variable is like a box, you name it and place things inside. For example, a box named cookies can hold bottles of water.
 
