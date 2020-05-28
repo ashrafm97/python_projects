@@ -1,6 +1,6 @@
 # Factory of Ashraf Product Ltd.
 
-This small project looks at using fucntions and TDD.
+This small project looks at using functions and TDD.
 We are also implementing Agile and Scrum principles.
 
 Topics covered include: 
